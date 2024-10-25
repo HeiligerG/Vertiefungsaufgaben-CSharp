@@ -35,7 +35,7 @@ Falls du dich auch für objektorientierte Programmierung interessierst, bist du 
    ```
 2. **Wechsle in das Projektverzeichnis**:
    ```bash
-   cd Vertiefungsaufgaben-Csharp
+   cd Vertiefungsaufgaben-CSharp
    ```
 3. **Öffne das Projekt** in Visual Studio oder einem Editor deiner Wahl.
 4. **Baue und führe das Projekt aus**:
