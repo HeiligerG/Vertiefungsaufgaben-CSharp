@@ -15,7 +15,7 @@ Willkommen zu meinem C#-Repo! Hier findest du meine Vertiefungsaufgaben im Rahme
 6. [Kontakt](#kontakt)
 
 ## 📋 Über das Projekt
-In diesem Projekt sammle ich alle Aufgaben und Lösungen, die ich während meiner Berufsschulausbildung im Modul "Objektorientierte Programmierung" bearbeitet habe. Die Themen reichen von den Grundlagen der Klassen und Objekte bis hin zu fortgeschrittenen Konzepten wie Vererbung, Interfaces und Design Patterns.
+In diesem Projekt sammle ich alle Aufgaben und Lösungen, die ich während meiner Berufsschulausbildung im Modul "Objektorientierte Programmierung" bearbeitet habe. Die Themen reichen von den Grundlagen der Klassen und Objekte bis hin zu fortgeschrittenen Konzepten.
 
 Falls du dich auch für objektorientierte Programmierung interessierst, bist du hier genau richtig!
 
@@ -58,6 +58,7 @@ Beiträge sind herzlich willkommen! Falls du Vorschläge für Verbesserungen has
 Falls du Fragen hast oder Hilfe benötigst, kannst du mich gerne kontaktieren:
 
 - **GitHub:** [HolyG](https://github.com/HeiligerG)
+- **Mail:** gggigi111@gmail.com
 
 ---
 
