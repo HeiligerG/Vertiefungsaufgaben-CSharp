@@ -1,0 +1,6 @@
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\bin\Debug\Vertiefungs_A1.exe
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\bin\Debug\Vertiefungs_A1.pdb
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\obj\Debug\Vertiefungs A1.csproj.AssemblyReference.cache
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\obj\Debug\Vertiefungs A1.csproj.CoreCompileInputs.cache
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\obj\Debug\Vertiefungs_A1.exe
+C:\Users\gggig\RiderProjects\Vertiefungs A1\Vertiefungs A1\obj\Debug\Vertiefungs_A1.pdb

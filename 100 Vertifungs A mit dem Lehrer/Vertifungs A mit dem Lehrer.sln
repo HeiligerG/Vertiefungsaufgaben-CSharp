@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertifungs A mit dem Lehrer", "Vertifungs A mit dem Lehrer\Vertifungs A mit dem Lehrer.csproj", "{162B6AB2-819F-46F8-AF73-ED83C0A82F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162B6AB2-819F-46F8-AF73-ED83C0A82F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162B6AB2-819F-46F8-AF73-ED83C0A82F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162B6AB2-819F-46F8-AF73-ED83C0A82F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162B6AB2-819F-46F8-AF73-ED83C0A82F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

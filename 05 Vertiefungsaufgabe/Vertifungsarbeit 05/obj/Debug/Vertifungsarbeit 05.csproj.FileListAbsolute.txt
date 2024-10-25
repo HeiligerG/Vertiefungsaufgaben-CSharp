@@ -1,0 +1,6 @@
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\bin\Debug\Vertifungsarbeit_05.exe
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\bin\Debug\Vertifungsarbeit_05.pdb
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\obj\Debug\Vertifungsarbeit 05.csproj.AssemblyReference.cache
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\obj\Debug\Vertifungsarbeit 05.csproj.CoreCompileInputs.cache
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\obj\Debug\Vertifungsarbeit_05.exe
+C:\Users\gggig\RiderProjects\Vertifungsarbeit 05\Vertifungsarbeit 05\obj\Debug\Vertifungsarbeit_05.pdb

@@ -1,0 +1,2 @@
+C:\Users\gggig\RiderProjects\Vertifungs A mit dem Lehrer\Vertifungs A mit dem Lehrer\obj\Debug\Vertifungs A mit dem Lehrer.csproj.AssemblyReference.cache
+C:\Users\gggig\RiderProjects\Vertifungs A mit dem Lehrer\Vertifungs A mit dem Lehrer\obj\Debug\Vertifungs A mit dem Lehrer.csproj.CoreCompileInputs.cache
